@@ -1,0 +1,43 @@
+= Users
+
+*	Click on Users under the menu.
+*	It will show the options of Create New User and View/Manage Users.
+*	When clicking on ‘Create New User it will open a new screen where we can create a new user.
+
+
+
+image::xsi-createuser.png["XSI Create User"]
+
+*	Click on the ‘create user’ button will take the user to the ‘View/Manage Users’ screen.
+*	Create 3 users admin, editor, and viewer as follows with respective roles.
+
+
+image::xsi-viewuser.png["XSI View User"]
+
+*	By default, created user will be part of the main org.
+
+
+== How to add users to the particular organization
+
+*	Click on the preferences at the top right corner. And select the Main org and go to view/manage users.
+
+image::xsi-userpreferences.png["XSI User Preferences"]
+image::xsi-userpreferences-selectorg.png["XSI User Organization"]
+
+
+*	Click on the ‘Editor’ user to edit the user-related information.
+
+image::xsi-userpreferences-editorg-1.png["XSI User Org Edit-1"]
+image::xsi-userpreferences-editorg-2.png["XSI User Org Edit-2"]
+
+*	Under the Organizations section click on the ‘Add user to Organization’ button, it will open a pop-up window.
+
+
+
+image::xsi-userpreferences-addorg.png["XSI User Org Edit-2"]
+
+
+*	From the dropdown select ‘3Insys USA’ org and select role as per requirement.
+*	Remove default Main org from the organizations by clicking on the ‘Remove the organization’ button.
+*	Now when the Editor user login into the application he/she will have only editor-related access like create dashboard, view/manage dashboards. 
+*	Editor will not have access to create users, teams, orgs, etc.,

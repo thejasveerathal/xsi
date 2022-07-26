@@ -1,2 +1,4 @@
 * xref:xsi.adoc[]
 * xref:organizations.adoc[]
+* xref:users.adoc[]
+* xref:teams.adoc[]

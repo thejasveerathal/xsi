@@ -1,0 +1,16 @@
+= Teams
+
+*	Click on Teams under the menu.
+*	It will show the options of Create New Team and View/Manage Teams.
+*	When clicking on ‘Create New Team it will open a new screen where we can create a new team.
+
+image::xsi-teams.png["XSI Create Teams"]
+
+*   Click on create will take the user to the ‘View/Manage Teams’ screen.
+
+image::xsi-manageteams.png["XSI Manage Teams"]
+
+*	Click on the team will open the team settings as follows.
+*	Click on ‘Add member’ button and add user ‘Editor’ to Team USA. 
+
+image::xsi-viewteams.png["XSI View Teams"]
