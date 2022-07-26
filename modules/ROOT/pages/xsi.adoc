@@ -4,8 +4,8 @@ Cross View User Guide
 
 * Connect to 3Insys VPN and use below information to get into Crossview portal. +
   
-  Login URL : http://10.100.10.20:3001/ +
-  Enterprise Admin User : admin +
+  Login URL : http://10.100.10.20:3001/ 
+  Enterprise Admin User : admin 
   Password : -----
 
 * Login to cross-view using login credentials as ‘admin’ and password.
@@ -15,4 +15,18 @@ image::xsi-login.png["XSI Login"]
 
 *  Click on forgot your password, and the screen will navigate to the below page.
 
-image::xsi-login.png["XSI Forgot Password"]
+image::xsi-forgotpassword.png["XSI Forgot Password"]
+
+*  Enter the email and click on send reset email it will navigate to the below page.
+
+image::xsi-enteremail.png["XSI Enter Email"]
+
+* Click on ‘Back to login’ it will navigate to log in screen.
+* Click on ‘Log In’, it will take you to the home page as follows.
+
+
+image::xsi-homepage.png["XSI Home Page"]
+
+*	The home page contains a menu on the left side and play cards on the right side.
+*	Each play card navigates the user to a particular screen.
+*	In this guide users will learn how to create a data source and dashboards and assign particular dashboards to particular teams, users, orgs.

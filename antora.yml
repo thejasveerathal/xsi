@@ -7,4 +7,4 @@ asciidoc:
     source-language: asciidoc@
     table-caption: false
 nav:
-- modules/xsi/nav.adoc
+- modules/ROOT/nav.adoc

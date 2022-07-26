@@ -1,8 +1,2 @@
-* xref:xsm.adoc[]
-* xref:domain-management.adoc[]
-* xref:organization-management.adoc[]
-* xref:role-management.adoc[]
-* xref:user-management.adoc[]
-* Advance API Management
-** xref:advance-api-management/api-publisher.adoc[]
-** xref:advance-api-management/api-developer.adoc[]
+* xref:xsi.adoc[]
+* xref:organizations.adoc[]
