@@ -1,7 +1,7 @@
 name: xsi
 title: Crossview
 version: 1.0.0
-start_page: xsm.adoc
+start_page: xsi.adoc
 asciidoc:
   attributes:
     source-language: asciidoc@
