@@ -1,0 +1,4 @@
+= Demo Documentation for Crossview
+:url-project: https://antora.org
+:url-docs: https://docs.antora.org
+:url-org: https://gitlab.com/antora
