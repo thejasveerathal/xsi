@@ -1,1 +1,2 @@
 * xref:xsi.adoc[]
+* xref:organizations.adoc[]
