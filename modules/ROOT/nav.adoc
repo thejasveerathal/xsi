@@ -1,11 +1,11 @@
 * Crossview
-** xref:Crossview/xv.adoc[]
+** xref:xv.adoc[]
 
 * Home
 ** xref:Crossview/xv.adoc[]
 
 * Dashboard
-** xref:Dashboard/create-new-dashboard.adoc[]
+** xref:Dashboard/create-dashboard.adoc[]
 ** xref:Dashboard/import-dashboard.adoc[]
 ** xref:Dashboard/view-manage-dashboard.adoc[]
 
@@ -23,12 +23,12 @@
 ** xref:Teams/view-manage-teams.adoc[]
 
 * Altering
-** xref:Dashboard/manage-alert-rules.adoc[]
-** xref:Dashboard/manage-notifications-channel.adoc[]
+** xref:Altering/manage-alert-rules.adoc[]
+** xref:Altering/manage-notifications-channel.adoc[]
 
 * Datasources
 ** xref:Datasources/create-new-datasources.adoc[]
-** xref:Datasources/view-manage-datasources.adoc[]
+** xref:Datasources/view-manage-datasource.adoc[]
 
 * Plugins
 ** xref:Plugins/view-configure-plugins.adoc[]
