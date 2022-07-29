@@ -1,4 +1,37 @@
-* xref:xsi.adoc[]
-* xref:organizations.adoc[]
-* xref:users.adoc[]
-* xref:teams.adoc[]
+* Crossview
+** xref:Crossview/xv.adoc[]
+
+* Home
+** xref:Crossview/xv.adoc[]
+
+* Dashboard
+** xref:Dashboard/create-new-dashboard.adoc[]
+** xref:Dashboard/import-dashboard.adoc[]
+** xref:Dashboard/view-manage-dashboard.adoc[]
+
+
+* Users
+** xref:Users/create-new-users.adoc[]
+** xref:Users/view-manage-users.adoc[]
+
+* Organizations
+** xref:Organizations/create-new-organizations.adoc[]
+** xref:Organizations/view-manage-organizations.adoc[]
+
+* Teams
+** xref:Teams/create-new-teams.adoc[]
+** xref:Teams/view-manage-teams.adoc[]
+
+* Altering
+** xref:Dashboard/manage-alert-rules.adoc[]
+** xref:Dashboard/manage-notifications-channel.adoc[]
+
+* Datasources
+** xref:Datasources/create-new-datasources.adoc[]
+** xref:Datasources/view-manage-datasources.adoc[]
+
+* Plugins
+** xref:Plugins/view-configure-plugins.adoc[]
+
+
+xref:Statistics.adoc[]
