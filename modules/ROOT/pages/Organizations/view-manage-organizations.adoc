@@ -1,0 +1,5 @@
+= View/Manage Organizations
+
+*	Click on create button will take the user to the ‘View/Manage Organization’ screen.
+
+image::xv-manageorg.png["XV Manage Organizations"]

@@ -1,0 +1,24 @@
+== How to add users to the particular organization
+
+*	Click on the preferences at the top right corner. And select the Main org and go to view/manage users.
+
+image::xv-userpreferences.png["XV User Preferences"]
+image::xv-userpreferences-selectorg.png["XV User Organization"]
+
+
+*	Click on the ‘Editor’ user to edit the user-related information.
+
+image::xv-userpreferences-editorg-1.png["XV User Org Edit-1"]
+image::xv-userpreferences-editorg-2.png["XV User Org Edit-2"]
+
+*	Under the Organizations section click on the ‘Add user to Organization’ button, it will open a pop-up window.
+
+
+
+image::xv-userpreferences-addorg.png["XV User Org Edit-2"]
+
+
+*	From the dropdown select ‘3Insys USA’ org and select role as per requirement.
+*	Remove default Main org from the organizations by clicking on the ‘Remove the organization’ button.
+*	Now when the Editor user login into the application he/she will have only editor-related access like create dashboard, view/manage dashboards. 
+*	Editor will not have access to create users, teams, orgs, etc.,

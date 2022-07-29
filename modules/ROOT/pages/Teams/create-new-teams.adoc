@@ -1,0 +1,9 @@
+= Create New Teams
+
+*	Click on Teams under the menu.
+*	It will show the options of Create New Team and View/Manage Teams.
+*	When clicking on ‘Create New Team it will open a new screen where we can create a new team.
+
+image::xv-teams.png["XV Create Teams"]
+
+

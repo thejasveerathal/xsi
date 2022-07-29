@@ -1,0 +1,9 @@
+= View/Manage Teams
+*   Click on create will take the user to the ‘View/Manage Teams’ screen.
+
+image::xv-manageteams.png["XV Manage Teams"]
+
+*	Click on the team will open the team settings as follows.
+*	Click on ‘Add member’ button and add user ‘Editor’ to Team USA. 
+
+image::xv-viewteams.png["XV View Teams"]

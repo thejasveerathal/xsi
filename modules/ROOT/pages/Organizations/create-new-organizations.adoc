@@ -1,0 +1,9 @@
+= Create New Organizations
+
+*	Click on Organizations under the menu.
+*	It will show the options of Create New Organizations and View/Manage Organizations.
+*	When click on ‘Create New Organizations’ it will open a new screen where we can create a new org.
+*	Example Create an org name as ‘3Insys USA’ and ‘3Insys India’.
+
+
+image::xv-createorg.png["XV Create Organizations"]

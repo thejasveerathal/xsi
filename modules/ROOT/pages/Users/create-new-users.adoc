@@ -1,0 +1,18 @@
+= Create New Users
+
+*	Click on Users under the menu.
+*	It will show the options of Create New User and View/Manage Users.
+*	When clicking on ‘Create New User it will open a new screen where we can create a new user.
+
+
+
+image::xv-createuser.png["XV Create User"]
+
+*	Click on the ‘create user’ button will take the user to the ‘View/Manage Users’ screen.
+*	Create 3 users admin, editor, and viewer as follows with respective roles.
+
+
+image::xv-viewuser.png["XV View User"]
+
+*	By default, created user will be part of the main org.
+
