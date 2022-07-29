@@ -2,33 +2,33 @@
 ** xref:Crossview/xv.adoc[]
 
 * Dashboard
-** xref:Dashboard/create-dashboard.adoc[Create-Dashboard]
-** xref:Dashboard/import-dashboard.adoc[]
-** xref:Dashboard/view-manage-dashboard.adoc[]
+** xref:Dashboard/create-dashboard.adoc[Create Dashboard]
+** xref:Dashboard/import-dashboard.adoc[Import Dashboard]
+** xref:Dashboard/view-manage-dashboard.adoc[View/Manage Dasboard]
 
 
 * Users
-** xref:Users/create-new-users.adoc[]
-** xref:Users/view-manage-users.adoc[]
+** xref:Users/create-new-users.adoc[Create New Users]
+** xref:Users/view-manage-users.adoc[View or Manage Users]
 
 * Organizations
-** xref:Organizations/create-new-organizations.adoc[]
-** xref:Organizations/view-manage-organizations.adoc[]
+** xref:Organizations/create-new-organizations.adoc[Create New Organizations]
+** xref:Organizations/view-manage-organizations.adoc[View or Manage Organizations]
 
 * Teams
-** xref:Teams/create-new-teams.adoc[]
-** xref:Teams/view-manage-teams.adoc[]
+** xref:Teams/create-new-teams.adoc[Create New Teams]
+** xref:Teams/view-manage-teams.adoc[View Manage Teams]
 
 * Alerting
-** xref:Alerting/manage-alert-rules.adoc[]
-** xref:Alerting/manage-notifications-channel.adoc[]
+** xref:Alerting/manage-alert-rules.adoc[Manage Alert Rules]
+** xref:Alerting/manage-notifications-channel.adoc[Manage Notifications Channel]
 
 * Datasources
-** xref:Datasources/create-new-datasources.adoc[]
-** xref:Datasources/view-manage-datasource.adoc[]
+** xref:Datasources/create-new-datasources.adoc[Create New Datasources]
+** xref:Datasources/view-manage-datasource.adoc[View Manage Datasource]
 
 * Plugins
-** xref:Plugins/view-configure-plugins.adoc[]
+** xref:Plugins/view-configure-plugins.adoc[View And Configure Plugins]
 
 
 xref:Statistics.adoc[]
