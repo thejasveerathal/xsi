@@ -1,5 +1,5 @@
 * Crossview
-** xref:xv.adoc[]
+** xref:Crossview/xv.adoc[]
 
 * Home
 ** xref:Crossview/xv.adoc[]
@@ -22,9 +22,9 @@
 ** xref:Teams/create-new-teams.adoc[]
 ** xref:Teams/view-manage-teams.adoc[]
 
-* Altering
-** xref:Altering/manage-alert-rules.adoc[]
-** xref:Altering/manage-notifications-channel.adoc[]
+* Alerting
+** xref:Alerting/manage-alert-rules.adoc[]
+** xref:Alerting/manage-notifications-channel.adoc[]
 
 * Datasources
 ** xref:Datasources/create-new-datasources.adoc[]
