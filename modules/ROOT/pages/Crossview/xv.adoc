@@ -11,21 +11,21 @@ Cross View User Guide
 * Login to cross-view using login credentials as ‘admin’ and password.
 
 
-image::xsi-login.png["XSI Login"]
+image::xv-login.png["XV Login"]
 
 *  Click on forgot your password, and the screen will navigate to the below page.
 
-image::xsi-forgotpassword.png["XSI Forgot Password"]
+image::xv-forgotpassword.png["XV Forgot Password"]
 
 *  Enter the email and click on send reset email it will navigate to the below page.
 
-image::xsi-enteremail.png["XSI Enter Email"]
+image::xv-enteremail.png["XV Enter Email"]
 
 * Click on ‘Back to login’ it will navigate to log in screen.
 * Click on ‘Log In’, it will take you to the home page as follows.
 
 
-image::xsi-homepage.png["XSI Home Page"]
+image::xv-homepage.png["XV Home Page"]
 
 *	The home page contains a menu on the left side and play cards on the right side.
 *	Each play card navigates the user to a particular screen.
