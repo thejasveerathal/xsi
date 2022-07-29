@@ -1,11 +1,8 @@
-* Crossview
-** xref:Crossview/xv.adoc[]
-
 * Home
 ** xref:Crossview/xv.adoc[]
 
 * Dashboard
-** xref:Dashboard/create-dashboard.adoc[]
+** xref:Dashboard/create-dashboard.adoc[Create-Dashboard]
 ** xref:Dashboard/import-dashboard.adoc[]
 ** xref:Dashboard/view-manage-dashboard.adoc[]
 
