@@ -9,15 +9,15 @@
 
 * Users
 ** xref:Users/create-new-users.adoc[Create New Users]
-** xref:Users/view-manage-users.adoc[View or Manage Users]
+** xref:Users/view-manage-users.adoc[View/Manage Users]
 
 * Organizations
 ** xref:Organizations/create-new-organizations.adoc[Create New Organizations]
-** xref:Organizations/view-manage-organizations.adoc[View or Manage Organizations]
+** xref:Organizations/view-manage-organizations.adoc[View/Manage Organizations]
 
 * Teams
 ** xref:Teams/create-new-teams.adoc[Create New Teams]
-** xref:Teams/view-manage-teams.adoc[View Manage Teams]
+** xref:Teams/view-manage-teams.adoc[View/Manage Teams]
 
 * Alerting
 ** xref:Alerting/manage-alert-rules.adoc[Manage Alert Rules]
@@ -25,10 +25,9 @@
 
 * Datasources
 ** xref:Datasources/create-new-datasources.adoc[Create New Datasources]
-** xref:Datasources/view-manage-datasource.adoc[View Manage Datasource]
+** xref:Datasources/view-manage-datasource.adoc[View/Manage Datasource]
 
 * Plugins
 ** xref:Plugins/view-configure-plugins.adoc[View And Configure Plugins]
-
 
 xref:Statistics.adoc[]
